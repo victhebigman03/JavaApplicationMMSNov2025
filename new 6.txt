@@ -1,0 +1,19 @@
+public class ReturnStatement{
+    public static void main(String[]  args){
+	    System.out.println("the area of the rectangle is " + areaOf Rectangle(7,20);
+		System.out.println("the area of the rectangle is " + areaOf Rectangle(76,20);
+		System.out.println("the area of the rectangle is " + areaOf Rectangle(20,20);
+		System.out.println("the area of the rectangle is " + areaOf Rectangle(90,20);
+		System.out.println("the area of the rectangle is " + areaOf Rectangle(30,20);
+		
+		protected static int areaOfRectangle
+	
+	}	
+   	
+	
+	
+	
+	
+	}
+	
+}
