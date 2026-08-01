@@ -1,20 +1,15 @@
-public class Student {
-    private String studentName;
-
-    // Constructor
-    public Student(String studentName) {
-        this.studentName = studentName;
-    }
-
-    // Method that returns the student's name
-    public String getStudentName() {
-        return studentName;
-    }
-
-    // Main method to test the class
-    public static void main(String[] args) {
-        Student student = new Student("Victor Okoroafor");
-
-        System.out.println("Student Name: " + student.getStudentName());
-    }
+public static void classwork{
+   public static void main(String[] args){
+      Scanner scan = new(System.in);
+	  
+	  int[] numbers = new int[20];
+	  
+	  int sum = 0:
+	  
+	  System.out.print("Number " + (i + i ) + ": ");
+	  numbers[i] = input.nextint();
+	      
+	  
+   }
 }
+   

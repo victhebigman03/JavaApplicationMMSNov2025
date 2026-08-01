@@ -1,0 +1,11 @@
+public class USingMyEnum{
+   public static void main(String[] args){
+       DaysOfWeek day 1 = DaysOfWeek.Wednesday;
+	   DaysOfWeek day 2 = DaysOfWeek.Thursday;
+	   
+	   
+	   System.out.printf("Today is %s%n", day);
+	   System.out.printf("Tomorrow will be %s%n", day);
+	   
+   }   
+}

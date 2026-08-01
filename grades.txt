@@ -1,0 +1,15 @@
+Public class UsingMyEnum{
+   public static void main(String[] args){
+        
+		Grade A = outstanding;
+        Grade B = very good;
+        Grade C = good;
+        Grade D = poor;
+        Grade E = pass;        
+		Grade F = fail;
+		
+      	  
+
+ 	  
+   }   
+}

@@ -1,0 +1,10 @@
+public enum Grade{
+   Grade A = Outstanding,
+   Grade B = Great,
+   Grade C = Excellent,
+   Grade D = Pass,
+   Grade E = poor,
+   Grade F = Fail
+   
+   
+}
